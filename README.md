@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NtirpangLudiy
 - 👀 I’m interested in software development project that provide solution to businesses
-- 🌱 I’m currently a master of technology candidate
+- 🌱 I’m currently a master of technology candidate in software
 - 💞️ I’m looking to collaborate to help me built my practical skil
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
